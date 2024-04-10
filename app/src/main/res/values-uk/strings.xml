@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lawyer manager</string>
+    <string name="String_must_be_written_error">Поля повинні бути заповнені</string>
+    <string name="login_or_password_wrong_error">Не вірно введено логін або пароль</string>
+    <string name="edittext_not_written_error">Ви не ввели потрібні дані</string>
+    <string name="name">Ім\'я</string>
+    <string name="surname">Прізвище</string>
+    <string name="confirm_password">Підтвердіть пароль</string>
+    <string name="password">Пароль</string>
+    <string name="dob">Вік</string>
+    <string name="login">Ім\'я користувача</string>
+    <string name="email">Електронна пошта</string>
+    <string name="submit">Реєстрація</string>
+    <string name="passwords_not_identical_error">Паролі не співпадають</string>
+    <string name="login_">Вхід</string>
+    <string name="dovid">Клієнти</string>
+    <string name="exit">Вихід</string>
+    <string name="change">Зміни</string>
+    <string name="images">Зображення</string>
+    <string name="cancel">Скасувати</string>
+    <string name="select_picture">Вибрати фото</string>
+    <string name="choose_from_gallery">Вибрати з галереї</string>
+    <string name="take_photo">Зробити фото</string>
+    <string name="add_photo">Добавити фото</string>
+    <string name="add_manager">Добавити</string>
+    <string name="close">Назад</string>
+    <string name="month">Місяць</string>
+    <string name="name_of_lawyer">Назва</string>
+    <string name="registration">Реєтрація</string>
+</resources>
